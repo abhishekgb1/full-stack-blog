@@ -21,7 +21,7 @@ Open `index.html` in a browser, or serve this folder with any static web server.
 
 ## Publish with GitHub Pages
 
-The workflow in `.github/workflows/pages.yml` publishes the site after changes reach `main`. In the repository, open **Settings → Pages** and select **GitHub Actions** as the build and deployment source. GitHub will then publish the site at:
+GitHub Pages serves the static files directly from the repository. The publishing source is set to the `main` branch and the repository root. GitHub publishes the site at:
 
 `https://abhishekgb1.github.io/full-stack-blog/`
 
