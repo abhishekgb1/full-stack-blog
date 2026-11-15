@@ -1,6 +1,8 @@
 # Fieldnotes
 
-Fieldnotes is a small, welcoming space to read sample essays and keep a notebook of your own. It runs as a static website with no account, build step, or third-party JavaScript dependency.\n\n🌐 **Live public site:** [Open Fieldnotes](https://abhishekgb1.github.io/full-stack-blog/)
+Fieldnotes is a small, welcoming space to read sample essays and keep a notebook of your own. It runs as a static website with no account, build step, or third-party JavaScript dependency.
+
+🌐 **Live public site:** [Open Fieldnotes](https://abhishekgb1.github.io/full-stack-blog/)
 
 ## What visitors can do
 
