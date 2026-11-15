@@ -365,10 +365,10 @@ async function importBackup(file) {
       return true;
     });
     localStories = [...imported, ...localStories];
-    persistStories();
+    const saved = persistStories();
     activeCategory = "All stories";
     render();
-    showToast(`${imported.length} ${imported.length === 1 ? "story" : "stories"} imported.`);
+    if (saved) showToast(`${imported.length} ${imported.length === 1 ? "story" : "stories"} imported.`);
   } catch {
     showToast("This file isn’t a valid Fieldnotes backup.");
   }
