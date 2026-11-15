@@ -1,6 +1,6 @@
 # Fieldnotes
 
-Fieldnotes is a small, welcoming space to read sample essays and keep a notebook of your own. It runs as a static website with no account, build step, or third-party JavaScript dependency.
+Fieldnotes is a small, welcoming space to read sample essays and keep a notebook of your own. It runs as a static website with no account, build step, or third-party JavaScript dependency.\n\n🌐 **Live public site:** [Open Fieldnotes](https://abhishekgb1.github.io/full-stack-blog/)
 
 ## What visitors can do
 
@@ -23,7 +23,7 @@ Open `index.html` in a browser, or serve this folder with any static web server.
 
 GitHub Pages serves the static files directly from the repository. The publishing source is set to the `main` branch and the repository root. GitHub publishes the site at:
 
-`https://abhishekgb1.github.io/full-stack-blog/`
+[https://abhishekgb1.github.io/full-stack-blog/](https://abhishekgb1.github.io/full-stack-blog/)
 
 ## Project files
 
